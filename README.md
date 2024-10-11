@@ -1,8 +1,10 @@
-# Blog en Next.js
+# Tres en raya React
 
-Este es un **blog** sobre gatos 🐱 creado con **Next.js** que utiliza **Sequelize** para interactuar con una base de datos **MySQL**.
+Este es el clásico juego de tres en raya desarrollado en **React**. Es un proyecto simple y divertido que demuestra el uso de componentes de React, manejo del estado y lógica de juego.
 
 ## 📦 Instalación y Ejecución del Proyecto
+
+Sigue estos pasos para clonar el proyecto y ejecutar la aplicación en tu máquina local.
 
 1. **Clona el repositorio**:
 
@@ -10,25 +12,18 @@ Este es un **blog** sobre gatos 🐱 creado con **Next.js** que utiliza **Sequel
 
    ```bash
    git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_DE_TU_PROYECTO>
-   
-2. **Instala las dependencias del proyecto:**:
+   cd tic-tac-toe
+
+2. **Instala las dependencias**:
 
    ```bash
-    npm install
-   
-3. **Levantar base de datos**:
-   
-    ```bash
-    docker-compose up -d
-   
-3. **Iniciar aplicación**:
-   
-    ```bash
-    npm run dev
+   npm install   
 
-    
+3. **Inicia la aplicación**:
 
+      ```bash
+   npm start
+ 
 
   
 
